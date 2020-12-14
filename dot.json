@@ -1,0 +1,15 @@
+[
+  {
+    area: "北京",
+    entryAmount: "0.02",
+    outboundAmount: "485.21",
+    dotid: 0,
+    value: 0.02,
+    info: "北京 入境金额：$0.02万, 出境金额：$485.21万",
+    name: "北京",
+    lng: 116.46,
+    lat: 39.92,
+    type: "ok"
+  },
+
+];
