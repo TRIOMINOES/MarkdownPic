@@ -1,2 +1,0 @@
-from,to,value,type,lng1,lat1,lng2,lat2
-北京,上海,6.91,move_out,116.397128,39.916527,121.48941,31.40527
